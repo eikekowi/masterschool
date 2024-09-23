@@ -1,2 +1,2 @@
 print("YEAH!!! Eike ist cool!")
-print("Eike ist der Beste!")
+print("Eike ist der allerbeste!")
